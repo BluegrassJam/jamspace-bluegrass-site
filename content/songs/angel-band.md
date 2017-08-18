@@ -35,5 +35,5 @@ I brush the dew on Jordan's banks the crossing must be near.
 I've almost gained my heavenly home. My spirit loudly sings.
 The holy ones, behold they come. I hear the noise of wings.
 
-#### CHORUS
+#### CHORUS``
 
