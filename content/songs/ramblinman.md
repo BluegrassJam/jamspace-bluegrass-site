@@ -2,7 +2,6 @@
 title: "A Ramblin' Man Is a Ramblin' Man"
 tags: ["G Position"]
 draft: false
-
 ---
 ### Chords: G, C
 

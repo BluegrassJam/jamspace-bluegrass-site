@@ -72,6 +72,21 @@ a:hover {
     text-align: center;
 }
 
+.nobackground {
+    display: block;
+    padding: 1.5px;
+    margin: 0 0 10px;
+    font-size: 13px;
+    line-height: 1.0;
+    color: black;
+    font-weight: bold;
+    word-break: break-all;
+    word-wrap: break-word;
+    border-radius: 1px;
+    background-color: #FFF;
+    border: 1px solid #FFF;
+}
+
 .item-tag {
     background-color: var(--accent);
 }
