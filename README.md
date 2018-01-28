@@ -1,9 +1,11 @@
-### Welcome to the jamspace-bluegrass-site repository!###
+# Welcome to the jamspace-bluegrass-site repository!
 
+## Purpose
 Source code for Hugo based site for resources and information about bluegrass music.
 
-
-### Contribution guidelines ###
-
-* Keep commits small. 
-* Don't break the build.
+## Rules of the Repository
+* Master branch is production, period.
+* Do not commit to master, please work off the development branch.
+* When working locally, try to work in feature branches.
+* Please follow GitFlow.
+* You may fork this repository freely, for personal or commerical use. It would be cool if you dropped my name in some credits, but it's not required.
