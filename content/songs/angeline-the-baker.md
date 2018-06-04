@@ -1,5 +1,41 @@
 ---
 title: "Angeline the Baker"
-date: 2017-08-18
-draft: true
+tags: ["D Position"]
+draft: false
 ---
+<pre class="nobackground">D                            G</pre>
+Angeline the baker, lives on the village green.
+<pre class="nobackground">D                            A	       D</pre>
+The way I always loved her, beats all you’ve ever seen.
+ 
+<pre class="nobackground">D             G              D</pre>
+**Angeline the baker, Angeline I know.**
+<pre class="nobackground">D             A               G</pre> 
+**Should have married Angeline, twenty years ago.**
+
+Angeline the baker, age of 43.
+Fed her sugar candy, but she still won't marry me.
+  
+#### CHORUS
+
+Her father was a baker, his name was Uncle Sam.
+
+I never can forget her, no matter where I am.
+
+#### CHORUS
+
+She said couldn’t do hard work, because she is not stout.
+
+Baked the biscuits every day and poured the coffee out.
+
+#### CHORUS
+
+I bought Angeline a brand new dress, neither black nor brown.
+
+It was the color of a stormy skies, before the rain came down.
+
+#### CHORUS
+
+Sixteen horses in my team, the leader he was blind.
+
+I dreamed that I was dying, I saw my Angeline.
