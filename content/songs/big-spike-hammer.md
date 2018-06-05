@@ -26,7 +26,6 @@ Well I've been lots of places, not much I ain't done. There's still a lot of thi
 
 But this hammer that I swing or the woman that I love, Yeah one's gonna be the death of me. 
 
-
 #### CHORUS
 
 <pre class="nobackground">Em                      D   G</pre> 
