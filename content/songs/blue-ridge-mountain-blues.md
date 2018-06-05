@@ -3,14 +3,14 @@ title: "Blue Ridge Mountain Blues"
 tags: ["G Position"]
 draft: false
 ---
-<pre class="nobackground">G                  D              G</pre>
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
 When I was young and in my prime I left my home in Caroline.
-<pre class="nobackground">D                  G</pre>
+#### D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
 Now all I do is sit and pine for all those folks I left behind.
 
-<pre class="nobackground">G                  D              G</pre>
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
 I've got the Blue Ridge Mountain Blues and I stand right here to say.
-<pre class="nobackground">G                  C                  D                  G</pre>
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C  &nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  G
 My grip is packed to travel, and I'm scratching gravel to that Blue Ridge far away.
 
 <br>

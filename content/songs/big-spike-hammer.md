@@ -4,14 +4,14 @@ tags: ["G Position"]
 draft: false
 ---
 
-<pre class="nobackground">G                  Em              C            Em</pre>
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em
 Can't you hear the whistle of my big spike hammer? Lord it's busting my side.
-<pre class="nobackground">G                  Em              C                 Em      D</pre>
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em  &nbsp;&nbsp;&nbsp;&nbsp; D
 I've done all I can do to keep that woman, Still she's not satisfied.
 
-<pre class="nobackground"> G                  D           G</pre>
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
 **Hey, hey Della Mae. Why do you treat me this way?**
-<pre class="nobackground"> G                     D                G</pre>
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
 **Hey, hey Della Mae. I'll get even some day**
 
 <br>
@@ -28,6 +28,6 @@ But this hammer that I swing or the woman that I love, Yeah one's gonna be the d
 
 #### CHORUS
 
-<pre class="nobackground">Em                      D   G</pre> 
+#### Em &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp; G 
 Big spike hammer, big spike hammer.
 

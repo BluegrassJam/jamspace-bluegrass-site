@@ -4,14 +4,13 @@ tags: ["G Position"]
 draft: false
 ---
 
-
-<pre class="nobackground">G             C                    G</pre>
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp;&nbsp; G
 I'm breaking in a brand new pair of shoes
-<pre class="nobackground">	          C                             G</pre>
+#### C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
 Don't look at me like you think I've got the blues
-<pre class="nobackground">C                              G		      Em</pre>	
+#### C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G &nbsp;&nbsp;&nbsp;&nbsp; Em</pre>	
 'Cause I'm walking 'round and around and I'm seeing most of the town
-<pre class="nobackground">G          D               G</pre>     
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp; G</pre>     
 I'm just breaking in a brand new pair of shoes
 
 <br>
@@ -26,9 +25,9 @@ I'm just breaking in a brand new pair of shoes
 
 <br>
 
-<pre class="nobackground">C                     G</pre>
+#### C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
 **Ah ha so I'm talking to myself**
-<pre class="nobackground">C                     D</pre>
+#### C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D
 **Oh no she's not putting me on the shelf**
-<pre class="nobackground">G              D            G</pre>     
+#### G &nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp; G     
 **I'm just breaking in a brand new pair of shoes**

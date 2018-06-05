@@ -1,6 +1,6 @@
 ---
 title: "Bury Me Beneath the Willow"
-tags: ["G Position"]
+tags: ["C Position"]
 draft: false
 ---
 

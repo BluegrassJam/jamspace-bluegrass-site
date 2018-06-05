@@ -4,10 +4,10 @@ tags: ["G Position"]
 draft: false
 ---
 
-<pre class="nobackground">G				D           G</pre>
+#### G	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp; G
 I asked my love to take a walk, Just to walk a little ways.
 
-<pre class="nobackground">C             G		         D	               G</pre>
+#### C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
 An' as we walked, then we would talk all about our wedding day.
 
 #### CHORUS

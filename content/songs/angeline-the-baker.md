@@ -3,14 +3,14 @@ title: "Angeline the Baker"
 tags: ["D Position"]
 draft: false
 ---
-<pre class="nobackground">D                            G</pre>
+#### D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
 Angeline the baker, lives on the village green.
-<pre class="nobackground">D                            A	       D</pre>
+#### D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D
 The way I always loved her, beats all you’ve ever seen.
  
-<pre class="nobackground">D             G              D</pre>
+#### D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D
 **Angeline the baker, Angeline I know.**
-<pre class="nobackground">D             A               G</pre> 
+#### D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G 
 **Should have married Angeline, twenty years ago.**
 
 Angeline the baker, age of 43.

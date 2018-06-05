@@ -4,24 +4,24 @@ tags: ["G Position"]
 draft: false
 ---
 
-<pre class="nobackground">G     C         G               C         G</pre>
+#### G &nbsp;&nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp;&nbsp; G &nbsp;&nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp;&nbsp; G
 Blue trail of sorrow lies upon the ground,
-<pre class="nobackground">D                                     G</pre>
+#### D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G</pre>
 And I get so lonely since you let me down,
-<pre class="nobackground">                C      G                C           G</pre>
+#### G &nbsp;&nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp;&nbsp; G &nbsp;&nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp;&nbsp; G
 Well, I used to be so happy walking on these streets,
-<pre class="nobackground">D                                     G</pre>
+#### D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G</pre>
 Now there's just sadness everywhere I meet,
 
 <br>
 
-<pre class="nobackground">C             G     C                D</pre>
+#### C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G &nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D
 **Start walkin baby, walk all over town,**
-<pre class="nobackground">C               D                  G</pre>
+#### C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp; G
 **Sweet tears of sadness fallin' down,**
-<pre class="nobackground">C             G    C                D</pre>
+#### C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G &nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D
 **Keep lookin' baby, I won't be around,**
-<pre class="nobackground">C               D                 G</pre>
+#### C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp; G
 **Blue trail of sorrow on the ground,**
 
 <br>
