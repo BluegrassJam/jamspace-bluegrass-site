@@ -5,21 +5,21 @@ draft: false
 ---
 ### Chords: G, C, D
 
-<pre class="nobackground">G       C        G            D	         G</pre>
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
 My latest sun is sinking fast. My race is nearly run.
 
-<pre class="nobackground">G       C        G            D	         G</pre>
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
 My strongest trials now are past.My triumph has begun.
 
 
 
-<pre class="nobackground">D  	G           D         	G</pre>
+#### D &nbsp;&nbsp;&nbsp; G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
 **Oh come angel band. Come and around me stand.**
 
-<pre class="nobackground">C 			G              D		G	</pre>
+#### C &nbsp;&nbsp;&nbsp; G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	G
 **Oh bear me away on your snow white wings to my immortal home.**
 
-<pre class="nobackground">C 			G              D		G	</pre>
+#### C &nbsp;&nbsp;&nbsp; G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	G
 **Oh bear me away on your snow white wings to my immortal home.**
 
 Oh bear my longing heart to him who bled and died for me.

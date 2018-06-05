@@ -4,24 +4,24 @@ tags: ["G Position"]
 draft: false
 ---
 
-<pre class="nobackground">G                  C</pre> 
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C 
 I said blue moon of Kentucky keep on shining.
-<pre class="nobackground">G                  D</pre> 
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D  
 shine on the one that's gone and left me blue 
-<pre class="nobackground">G                  C</pre> 
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C 
 I said blue moon of Kentucky keep on shining 
-<pre class="nobackground">G             D           G</pre>  
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G  
 Shine on the one that's gone and left me blue 
  
  
-<pre class="nobackground">G                  C</pre>  
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C   
 Well it was on one moonlight night, the stars shining bright 
-<pre class="nobackground">G                  D</pre>
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D 
 Whisper on high Love said goodbye 
 
  
-<pre class="nobackground">G                  C</pre>   
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C     
 Blue moon of Kentucky keep on shining 
- <pre class="nobackground">G                  D</pre>
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D 
 Shine on the one that's gone and left me blue 
  
