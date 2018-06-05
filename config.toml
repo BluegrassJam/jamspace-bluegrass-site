@@ -2,6 +2,7 @@ baseURL = "https://bluegrassjam.org/"
 languageCode = "en-us"
 title = "BluegrassJam.org"
 theme = "minimal"
+googleAnalytics = "UA-120401073-1" # Enable Google Analytics by entering your tracking id
 
 [params]
     author = "Dennis Stepp"
