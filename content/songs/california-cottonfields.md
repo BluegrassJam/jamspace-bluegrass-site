@@ -1,6 +1,6 @@
 ---
 title: "California Cotton Fields"
-date: 2017-08-18
+tags: ["G Position"]
 draft: false
 ---
 

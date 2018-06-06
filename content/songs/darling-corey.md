@@ -1,6 +1,6 @@
 ---
 title: "Darling Corey"
-date: 2017-08-18
+tags: ["D Position"]
 draft: false
 ---
 
