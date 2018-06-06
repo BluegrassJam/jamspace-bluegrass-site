@@ -4,9 +4,81 @@ date: 2017-08-18
 draft: false
 ---
 
-A part: |G---|C-G-|G---|D-G-|G---|C-G-|G---|D-G-| B Part: |G---|G---|G---|D-G-|G---|G---|G---|D-G-|
-(G) I got a girl at the (C) head of the (G) creek. Goin up t' see her 'bout the (D) middle of the (G) week. Kiss her on the mouth, just as (C) sweet as any wine (G). Wraps herself around me like a (D) sweet potato (G) vine.
-(G) I’m Goin' up t' Cripple Creek, goin' on the run Goin' up t' Cripple Creek t' (D) have a little fun (G). Goin' up t' Cripple Creek, goin in a whirl Goin' up t' Cripple Creek t' (D) see my girl.
-(G) Girls up on Cripple Creek (C) about half (G) grown. Jump on a man like a (D) dog on a (G) bone. Hills are steep and the (C) roads are (G) muddy. And my head so dizzy that I (D) can’t stay (G) steady.
-(G) Now cripple creek is wide and (C) cripple creek is (G) deep. (G) I’ll wade O’ cripple creek (D) before I (G) sleep. I'll roll my britches up (C) to my (G) knees. An' wade in ol' Cripple Creek (D) when I (G) please.
-(G) Well I married a wife in the (C) month of (G) June. I married her up by the (D) light of the (G) moon (G). We live near the head of (C) Cripple (G) Creek. We've been there just (D) about a (G) week.
+#### A &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D
+When I get off of this mountain, you know where I want to go?
+#### A &nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp; E
+Straight down the Mississippi river, to the Gulf of Mexico
+#### A &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D
+To Lake Charles, Louisiana, little Bessie, girl that I once knew
+#### A &nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp; E 
+She told me just to come on by, if there's anything she could do
+
+<br>
+
+#### A
+**Up on Cripple Creek she sends me**
+#### D
+**If I spring a leak she mends me**
+#### E
+**I don't have to speak, she defends me**
+#### F#m &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
+**A drunkard's dream if I ever did see one**
+
+<br>
+
+Good luck had just stung me, to the race track I did go
+
+She bet on one horse to win and I bet on another to show
+
+The odds were in my favor, I had 'em five to one
+
+When that nag to win came around the track, sure enough we had won
+
+<br>
+
+#### Chorus
+
+<br>
+
+I took up all of my winnings, and I gave my little Bessie half
+
+And she tore it up and threw it in my face, just for a laugh
+
+Now there's one thing in the whole wide world, I sure do like to see
+
+That's how that little sweet thing of mine, dips her doughnut in my tea
+
+<br>
+
+#### Chorus
+
+<br>
+
+
+Now me and my mate were back at the shack, we had Spike Jones on the box
+
+She said, "I can't take the way he sings, but I love to hear him talk"
+
+Now that just gave my heart a throb, to the bottom of my feet
+
+And I swore as I took another pull, my Bessie can t be beat 
+
+<br>
+
+#### Chorus
+
+<br>
+
+Now there's a flood out in California and up north it's freezing cold
+
+And this living off the road is getting pretty old
+
+So I guess I'll call up my big mama, tell her I'll be rolling in
+
+But you know, deep down, I'm kind of tempted 
+
+To go and see my Bessie again.
+
+<br>
+
+#### Chorus
