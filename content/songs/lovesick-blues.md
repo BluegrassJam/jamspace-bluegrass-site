@@ -24,7 +24,7 @@ draft: false
 **Sweet dad-ad-ad-dy, such a beautiful dream**
 #### A7
 **I hate to think it all o-o-ver**
-#### F#
+#### F\#
 **I've lost my heart it seems**
 #### D7 &nbsp;&nbsp;&nbsp; G &nbsp;&nbsp;&nbsp; G7
 **I've grown so used to you somehow**
