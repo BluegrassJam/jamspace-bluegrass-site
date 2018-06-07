@@ -1,6 +1,6 @@
 ---
 title: "Kentucky Waltz"
-tags: ["G Position"]
+tags: ["C Position"]
 draft: false
 ---
 #### C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G7
