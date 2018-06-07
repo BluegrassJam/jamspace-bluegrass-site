@@ -1,5 +1,5 @@
 ---
-title: "Little Cabin Home_"
+title: "Little Cabin Home"
 tags: ["G Position"]
 draft: false
 ---
