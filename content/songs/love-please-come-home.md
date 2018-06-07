@@ -26,7 +26,7 @@ Please forgive me if you can
 
 That old wind is cold and slowly creeping around
 
-And thefire is burning low
+And the fire is burning low
 
 The snow has covered up the ground
 
