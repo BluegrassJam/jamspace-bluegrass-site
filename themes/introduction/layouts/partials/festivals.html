@@ -31,7 +31,7 @@
 </div>
 <!-- End Festivals container -->
 
-<!-- Festivals modals -->
+<!-- Jams modals -->
 {{ range sort .Pages }} {{ if eq .Section "festivals" }} {{ if not .Params.external_link }}
 <div class="modal" id="modal{{ $card := .Title | urlize }}{{ replace $card "%" ""}}">
     <div class="modal-background"></div>

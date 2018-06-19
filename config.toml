@@ -28,8 +28,8 @@ enforce_ssl             = false
     customCSS           = []                                # Include custom css files e.g. ["css/foo.css", "css/bar.css"]
 
     showSongs           = true                              # Show Song section on home page
-    showJams            = true                              # Show Jams section on home page
-    showFestivals       = true                              # Show Festivals section on home page
+    showJams            = false                              # Show Jams section on home page
+    showFestivals       = false                              # Show Festivals section on home page
     projectColumns      = "3"                               # Choose "2" or "3" columns for projects section
     jamImage            = "/img/jams.png"                  # For Jams without image
     festivalImage       = "/img/festivals.png"                   # For Festivals without image
