@@ -1,0 +1,40 @@
+<hr>
+<nav class="nav nav-center">
+    <span id="nav-toggle" class="nav-toggle"  onclick="document.getElementById('nav-menu').classList.toggle('is-active');">
+      <span></span>
+      <span></span>
+      <span></span>
+    </span>
+    <div id="nav-menu" class="nav-left nav-menu">
+      <span class="nav-item">
+        <a href="{{ "/" | relURL }}">Main</a>
+      </span>
+      <span class="nav-item">
+        <a href="{{ "/about" | relURL }}">About</a>
+      </span>
+      {{ if and (.Site.Params.showSongs)  (ne .Page.Section "songs")  }}
+      <span class="nav-item">
+        <a href="{{ "/songs" | relURL }}">Songs</a>
+      </span>
+      {{ end }}
+      {{ if and (.Site.Params.showJams)  (ne .Page.Section "jams")  }}
+      <span class="nav-item">
+        <a href="{{ "/jams" | relURL }}">Jams</a>
+      </span>
+      {{ end }}
+      {{ if and (.Site.Params.showFestivals)  (ne .Page.Section "festivals")  }}
+      <span class="nav-item">
+        <a href="{{ "/festivals" | relURL }}">Festivals</a>
+      </span>
+      {{ end }}
+      <span class="nav-item">
+        <a href="{{ "/contact" | relURL }}">Contact</a>
+      </span>
+    {{ if .Site.RSSLink }}
+      <span class="nav-item">
+        <a href="{{ .Site.RSSLink }}"><i class="fa fa-rss"></i></a>
+      </span>
+    {{ end }}
+    </div>
+</nav>
+<hr>
