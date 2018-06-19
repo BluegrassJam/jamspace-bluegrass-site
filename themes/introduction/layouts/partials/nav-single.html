@@ -1,0 +1,52 @@
+<hr>
+<nav class="nav nav-center">
+    <span id="nav-toggle" class="nav-toggle"  onclick="document.getElementById('nav-menu').classList.toggle('is-active');">
+      <span></span>
+      <span></span>
+      <span></span>
+    </span>
+    <div id="nav-menu" class="nav-left nav-menu">
+      <span class="nav-item">
+        <a href="{{ "/" | relURL }}">Main</a>
+      </span>
+      <span class="nav-item">
+        <a href="{{ "/about" | relURL }}">About</a>
+      </span>
+      {{ if .Site.Params.showSongs }}
+      <span class="nav-item">
+        {{ if ne .Section "songs" }}
+        <a href="{{ "/songs" | relURL }}">Songs</a>
+        {{ else }}
+        <a href="{{ "/songs" | relURL }}">Back to Songs</a>
+        {{ end }}
+      </span>
+      {{ end }}
+      {{ if .Site.Params.showJams }}
+      <span class="nav-item">
+        {{ if ne .Section "jams" }}
+        <a href="{{ "/jams" | relURL }}">Jams</a>
+        {{ else }}
+        <a href="{{ "/jams" | relURL }}">Back to Jams</a>
+        {{ end }}
+      </span>
+      {{ end }}
+      {{ if .Site.Params.showFestivals }}
+      <span class="nav-item">
+        {{ if ne .Section "festivals" }}
+        <a href="{{ "/festivals" | relURL }}">Festivals</a>
+        {{ else }}
+        <a href="{{ "/festivals" | relURL }}">Back to Festivals</a>
+        {{ end }}
+      </span>
+      {{ end }}
+      <span class="nav-item">
+        <a href="{{ "/contact" | relURL }}">Contact</a>
+      </span>
+    {{ if .Site.RSSLink }}
+      <span class="nav-item">
+        <a href="{{ .Site.RSSLink }}"><i class="fa fa-rss"></i></a>
+      </span>
+    {{ end }}
+    </div>
+</nav>
+<hr>
