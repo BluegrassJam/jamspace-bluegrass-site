@@ -1,6 +1,7 @@
 ---
 title: "Earl Park Fall Festival"
 description: "To bring the community together through music, camping, sports, games, food, and much more!"
+repo: "#" # delete this line if you want blog-like posts for projects
 tags: ["Indiana"]
 date: 2018-08-31
 draft: false
