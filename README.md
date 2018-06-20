@@ -1,7 +1,7 @@
 # Welcome to the jamspace-bluegrass-site repository!
 
 ## Purpose
-Source code for Hugo based site for resources and information about bluegrass music. 
+Source code for Hugo based site for resources and information about bluegrass music.
 
 ## Rules of the Repository
 * Master branch is production, period.
