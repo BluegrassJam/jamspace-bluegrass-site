@@ -1,12 +1,19 @@
 ---
-title: "Blue Night"
-tags: ["G Position"]
+title: Blue Night
+tags:
+- G Position
 draft: false
+
 ---
+**G                                                                         C**
 
 Blue night I got you on my mind. Blue night I can't keep from crying.
 
+**G                                          C                                              G**
+
 You met someone that was new. You quit someone that you knew was true.
+
+                  **D**
 
 Blue night I got you on my mind.
 <br>
@@ -29,4 +36,3 @@ There's just one thing that you must know. You're gonna reap just what you sow.
 Blue night, all by myself.
 
 Blue night, all by myself.
-
