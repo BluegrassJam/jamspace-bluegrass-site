@@ -4,9 +4,9 @@ tags: ["G Position"]
 draft: false
 ---
 
-
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A
 Standin' on the corner with the lowdown blues a great big hole in the bottom of my shoes
-
+#### D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
 Honey let me be your salty dog
 
 <br>

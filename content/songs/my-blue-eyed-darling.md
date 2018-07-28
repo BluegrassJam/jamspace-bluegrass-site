@@ -3,14 +3,14 @@ title: "My Blue Eyed Darling"
 tags: ["G Position"]
 draft: false
 ---
-
-eight weeks ago the night we parted
-
-my blue skies now have turned to gray
-
-alone I hang my head in sorry
-
-no other one could take your place
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C
+Eight weeks ago the night we parted
+#### D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
+My blue skies now have turned to gray
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C
+Alone I hang my head in sorrow
+#### D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
+No other one could take your place
 
 <br>
 

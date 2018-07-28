@@ -3,14 +3,14 @@ title: "East Virginia Blues"
 tags: ["G Position"]
 draft: false
 ---
-
-I was born in east Virginia 
-
-North Carolina I did roam 
-
-There I met a fair pretty maiden 
-
-Her name and age, I do not know
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**I was born in east Virginia** 
+#### C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
+**North Carolina I did roam**
+#### C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
+**There I met a fair pretty maiden** 
+#### D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
+**Her name and age, I do not know**
 
 <br>
 

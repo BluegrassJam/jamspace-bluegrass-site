@@ -3,13 +3,13 @@ title: "Girl at the Crossroads Bar"
 tags: ["D Position"]
 draft: false
 ---
-
+#### D 
 I walked out tonight for a ramble round
-
+#### D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A
 I didn't mean to stay, just to view the town
-
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D
 When I saw her smilin' from a far
-
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D
 As she walked into that crossroads bar
 
 <br>
