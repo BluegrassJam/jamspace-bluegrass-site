@@ -3,9 +3,9 @@ title: "Nine Pound Hammer"
 tags: ["G Position"]
 draft: false
 ---
-
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C
 This nine pound hammer is a little too heavy
-
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G 
 For my size, Buddy for my size
 
 <br>
