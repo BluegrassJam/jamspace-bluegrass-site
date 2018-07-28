@@ -3,13 +3,13 @@ title: "Will the Circle Be Unbroken"
 tags: ["G Position"]
 draft: false
 ---
-
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 I was standing by my window
-
+#### C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
 On a cold and cloudy day
-
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 When I saw that hearse come rolling
-
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
 For to carry my mother away
 
 <br>
