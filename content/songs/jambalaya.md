@@ -3,13 +3,13 @@ title: "Jambalaya"
 tags: ["C Position"]
 draft: false
 ---
-
+#### C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
 Goodbye Joe, me gotta go, me oh my oh
-
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C
 Me gotta go pole the pirogue down the bayou
-
+#### C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
 My Yvonne, the sweetest one, me oh my oh
-
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C
 Son of a gun, we'll have good fun on the bayou
 
 <br>

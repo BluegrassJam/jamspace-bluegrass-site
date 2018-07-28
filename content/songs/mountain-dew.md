@@ -4,8 +4,9 @@ tags: ["G Position"]
 draft: false
 ---
 
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G
 There's a big holler tree down the road here from me where ya lay down a dollar or two.
- 
+#### G &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G 
 Well you go round the bend and when you come back again there's a jug full o' good ole mountain dew
 
 <br>
