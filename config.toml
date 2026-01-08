@@ -57,3 +57,8 @@ googleAnalytics       = "UA-120401073-1"                                # Enable
 [[params.social]]
     url  = "https://linkedin.com/"
     icon = "linkedin"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
