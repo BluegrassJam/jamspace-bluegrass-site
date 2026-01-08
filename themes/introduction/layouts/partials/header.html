@@ -34,7 +34,7 @@
 {{ end }}
 
 <!-- jQuery -->
-<script type="text/javascript" src="{{ "/js/jquery-3.3.1.min.js" | relURL }}"></script>
+<script type="text/javascript" src="{{ "/js/jquery-3.4.0.min.js" | relURL }}"></script>
 
 <!-- Fonts and icon CSS -->
 <link rel="stylesheet" href="{{ "/css/font-awesome.min.css" | relURL }}">
@@ -54,12 +54,10 @@
 <!-- Icon -->
 <link rel="shortcut icon" href="{{ .Site.Params.faviconFile | default "img/favicon.ico" | relURL }}">
 
-<!-- Google Analytics -->
-{{ template "_internal/google_analytics_async.html" . }}
 
 <!-- RSS -->
-{{ if .RSSLink }}
-  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+{{ with .OutputFormats.Get "rss" }}
+<link href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
 {{ end }}
 
 </head>
